@@ -1,11 +1,3 @@
-# Static Site Generation with Ember - [#EmberYVR August 2015 Talks Night](http://www.meetup.com/Vancouver-Ember-js/events/224039974/)
-
-## Notes
-* [Ember.js](http://emberjs.com/) v1.13.6 / [Ember CLI](http://www.ember-cli.com/) v1.13.7
-* Added `ember-cli-sass` and `ember-bootstrap-sass` addons
-* No tests :(
-
-## License
 The MIT License (MIT)
 
 Copyright (c) 2015 Eubene Sa
