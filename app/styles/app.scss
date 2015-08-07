@@ -1,1 +1,7 @@
 @import "ember-bootstrap-sass";
+
+.centre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
