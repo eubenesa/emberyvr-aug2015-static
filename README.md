@@ -1,8 +1,8 @@
-# Static Site Generation with Ember - [#EmberYVR August 2015 Talks Night](http://www.meetup.com/Vancouver-Ember-js/events/224039974/)
+# [Static Site Generation with Ember](http://development.emberyvr-aug2015-static.divshot.io) - [#EmberYVR August 2015 Talks Night](http://www.meetup.com/Vancouver-Ember-js/events/224039974/)
 
 ## Notes
 * [Ember.js](http://emberjs.com/) v1.13.6 / [Ember CLI](http://www.ember-cli.com/) v1.13.7
-* Added `ember-cli-sass` and `ember-bootstrap-sass` addons
+* Added `ember-cli-sass`, `ember-bootstrap-sass`, `ember-cli-autoprefixer`, and `ember-cli-divshot` addons
 * No tests :(
 
 ## License
